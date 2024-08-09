@@ -105,7 +105,9 @@ public class Backgammon {
                     }
                     case 3 -> {
                         if (!register.isEmpty() || !verify.isEmpty()) {
-                            board.printBoard(piece, 15, 0, 15, 0);
+                            int piecePlayer1 = 15;
+                            int piecePlayer2 = 15;
+                            board.printBoard(piece, piecePlayer1, 0, piecePlayer2, 0);
                         } else {
                             System.out.println("No ha registrado ningun usuario o no ha validado credenciales.");
                         }

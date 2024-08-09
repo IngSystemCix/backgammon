@@ -1,0 +1,6 @@
+com\ingsystemcix\backgammon\functions\CredentialValidation.class
+com\ingsystemcix\backgammon\utils\Board.class
+com\ingsystemcix\backgammon\utils\ColoredConsoleText.class
+com\ingsystemcix\backgammon\Backgammon.class
+com\ingsystemcix\backgammon\functions\Dado.class
+com\ingsystemcix\backgammon\utils\Menu.class
